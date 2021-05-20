@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-aiohttp=3.7.4.post0=pypi_0
+aiohttp=3.7.4.post0==pypi_0
 alabaster=0.7.12=py_0
 appdirs=1.4.4=pypi_0
 argh=0.26.2=pyh9f0ad1d_1002
